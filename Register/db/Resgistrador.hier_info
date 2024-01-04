@@ -1,0 +1,55 @@
+|Resgistrador
+Q0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CLEAR => inst.ACLR
+CLEAR => inst2.ACLR
+CLEAR => inst3.ACLR
+CLEAR => inst4.ACLR
+CLK => inst.CLK
+CLK => inst2.CLK
+CLK => inst3.CLK
+CLK => inst4.CLK
+D0 => Mux:inst1.D1
+LOAD => Mux:inst1.S
+LOAD => Mux:inst5.S
+LOAD => Mux:inst6.S
+LOAD => Mux:inst7.S
+Q1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+D1 => Mux:inst5.D1
+Q2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+D2 => Mux:inst6.D1
+Q3 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+D3 => Mux:inst7.D1
+
+
+|Resgistrador|Mux:inst1
+Out <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+S => inst3.IN0
+S => inst.IN1
+D0 => inst1.IN1
+D1 => inst.IN0
+
+
+|Resgistrador|Mux:inst5
+Out <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+S => inst3.IN0
+S => inst.IN1
+D0 => inst1.IN1
+D1 => inst.IN0
+
+
+|Resgistrador|Mux:inst6
+Out <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+S => inst3.IN0
+S => inst.IN1
+D0 => inst1.IN1
+D1 => inst.IN0
+
+
+|Resgistrador|Mux:inst7
+Out <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+S => inst3.IN0
+S => inst.IN1
+D0 => inst1.IN1
+D1 => inst.IN0
+
+
