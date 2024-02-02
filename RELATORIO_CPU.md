@@ -4,7 +4,7 @@ A unidade central de processamento, é a parte de um sistema computacional, que 
 
 A ideia do projeto é desenvolver um circuito no Quartus Prime Lite Edition para simular o comportamento de uma CPU.
 
-## 2.Desenvolvimento
+## 2. Desenvolvimento
 
 O projeto da CPU foi implementado na placa FPGA DE0-CV Cyclone V.
 
