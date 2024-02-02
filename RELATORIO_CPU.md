@@ -54,19 +54,18 @@ A seguir temos as simulações de cada componente que forma a CPU. Tais gráfico
 
 <p align="center">
   <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/4f81d1fd-c166-49c6-bab7-3be614434e2b"/> <br/>
-  Figura 4: Unidade de Controle.
 </p>
 
 <p align="center">
   <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/8e26a9fc-b031-46b2-9728-c0c9c877a817"/> <br/>
-  Figura 5: 
+  Figura 4: Unidade de Controle.
 </p>
 
 #### 3.5 Display de 7 Segmentos
 
 <p align="center">
   <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/9b9fb444-8278-418e-9bb5-ecdaad33e982"/> <br/>
-  Figura 6: Display de 7 Segmentos.
+  Figura 5: Display de 7 Segmentos.
 </p>
 
 #### 3.6 Memória 1
