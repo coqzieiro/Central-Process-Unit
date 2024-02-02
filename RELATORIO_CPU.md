@@ -29,17 +29,52 @@ Um display de 7 segmentos é um dispositivo eletrônico que exibe dígitos decim
 
 #### 3.1 ULA (Unidade Lógica e Aritmética)
 
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 1: 
+</p>
+
 #### 3.2 Registradores
+
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 2: 
+</p>
 
 #### 3.3 Contadores
 
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 3: 
+</p>
+
 #### 3.4 Unidade de Controle (UC)
+
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 4: 
+</p>
 
 #### 3.5 Display de 7 Segmentos
 
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 5: 
+</p>
+
 #### 3.6 CPU Memória 1
 
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 6: 
+</p>
+
 #### 3.7 CPU Memória 2
+
+<p align="center">
+  <img src=" "/> <br/>
+  Figura 6: 
+</p>
 
 ## 4. Conclusão
 
