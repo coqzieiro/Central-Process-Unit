@@ -27,53 +27,68 @@ Um display de 7 segmentos é um dispositivo eletrônico que exibe dígitos decim
 
 ## 3. Simulações
 
-#### 3.1 ULA (Unidade Lógica e Aritmética)
+A seguir temos as simulações de cada componente que forma a CPU. Tais gráficos de _waveform_ permite confirmar o comportamento esperado a cada ciclo de clock.
+
+#### 3.1 ULA
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 1: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/d224485f-0d5b-4fb3-ad2b-7813a9d3d014"/> <br/>
+  Figura 1: Unidade Lógica e Aritmética.
 </p>
 
 #### 3.2 Registradores
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 2: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/881ab5a5-362c-42eb-9758-8a1aec1ab4b6"/> <br/>
+  Figura 2: Registrador.
 </p>
 
 #### 3.3 Contadores
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 3: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/9b5e8c70-2fb9-4068-9c58-54d95ebc35d1"/> <br/>
+  Figura 3: Contador.
 </p>
 
-#### 3.4 Unidade de Controle (UC)
+#### 3.4 UC
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 4: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/4f81d1fd-c166-49c6-bab7-3be614434e2b"/> <br/>
+  Figura 4: Unidade de Controle.
+</p>
+
+<p align="center">
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/8e26a9fc-b031-46b2-9728-c0c9c877a817"/> <br/>
+  Figura 5: 
 </p>
 
 #### 3.5 Display de 7 Segmentos
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 5: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/9b9fb444-8278-418e-9bb5-ecdaad33e982"/> <br/>
+  Figura 6: Display de 7 Segmentos.
 </p>
 
-#### 3.6 CPU Memória 1
+#### 3.6 Memória 1
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 6: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/4e352abd-38e7-4fbd-94c0-155a085a17f3"/> <br/>
 </p>
 
-#### 3.7 CPU Memória 2
+<p align="center">
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/87e2e9f3-f02b-4c0e-9353-a06a24eb556c"/> <br/>
+  Figura 6: Memória 1.
+</p>
+
+#### 3.7 Memória 2
 
 <p align="center">
-  <img src=" "/> <br/>
-  Figura 6: 
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/c4604115-6f2c-4500-bdb4-ea34bb123435"/> <br/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/coqzieiro/Central-Process-Unit/assets/122469265/08bbaa61-deeb-4f4b-9e34-87a0dababfaf"/> <br/>
+  Figura 7: Memória 2.
 </p>
 
 ## 4. Conclusão
