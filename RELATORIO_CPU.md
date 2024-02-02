@@ -1,0 +1,3 @@
+# INTRODUÇÃO
+A unidade central de processamento, é a parte de um sistema computacional, que realiza as instruções de um programa de computador, que executa a aritmética básica, orientado por um padrão binário 0 e 1, que possibilita a entrada, o processamento e saída de dados.  A CPU é implementada em um circuito integrado (CI) chamado microprocessador, que pode conter uma ou mais CPUs em um único chip. Um microprocessador com várias unidades é chamado de processador multi-core. Cada núcleo, pode também ser dividida em várias CPUs virtuais ou lógicas, usando uma técnica chamada multithreading.
+A ideia do projeto é desenvolver um circuito no Quartus Prime Lite Edition para simular o comportamento de uma CPU.
